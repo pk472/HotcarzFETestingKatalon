@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit Appointment (2)</name>
+   <tag></tag>
+   <elementGuidId>c003c04d-363f-4ded-b67d-777ce38b7632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[value=&quot;20&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='20']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a7edb9b7-4717-401e-b2f0-0246bd1bc5a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>b74fe205-5cdb-44a5-89c9-ecfd383309ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Appointment</value>
+      <webElementGuid>4a9181e5-8794-49f7-b1e3-6bc54439ccb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/main[1]/div[1]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-lg-10 col-md-12&quot;]/div[1]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[3]/td[6]/button[1]</value>
+      <webElementGuid>41a90cff-b0a5-489d-95f1-76bfb9a9f816</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='20']</value>
+      <webElementGuid>267e7c04-59cb-4363-a18d-8681d847a770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div/div/div/div/table/tbody/tr[3]/td[6]/button</value>
+      <webElementGuid>c77fd8f9-cf5e-4edb-b60a-3a7e4a621156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled'])[3]/following::button[1]</value>
+      <webElementGuid>dbe8dc40-28ef-4afa-9367-ccc060092243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oil Change'])[2]/following::button[1]</value>
+      <webElementGuid>ddb8a2ac-04f2-40ae-b8b7-31abef319049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]/button</value>
+      <webElementGuid>5da388bb-9f57-4ca5-9469-de7e74dea1e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Edit Appointment' or . = 'Edit Appointment')]</value>
+      <webElementGuid>271a14d5-8131-447a-afe4-1cc89fc8baea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

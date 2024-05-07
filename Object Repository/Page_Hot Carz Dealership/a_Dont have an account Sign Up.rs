@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dont have an account Sign Up</name>
+   <tag></tag>
+   <elementGuidId>17102e16-db89-45a6-a768-6cf257c9b1d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiTypography-root.MuiTypography-body2.MuiLink-root.MuiLink-underlineAlways.css-1b87lcw-MuiTypography-root-MuiLink-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/main/div/form/div[3]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2ab18072-0a23-4672-a867-5e44bef98265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body2 MuiLink-root MuiLink-underlineAlways css-1b87lcw-MuiTypography-root-MuiLink-root</value>
+      <webElementGuid>07b1a5a6-2162-47da-9785-878838077aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/signup</value>
+      <webElementGuid>f31bc26e-fd64-4dde-b217-d9caa44d6641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Don't have an account? Sign Up</value>
+      <webElementGuid>56165904-69b1-40a5-b7e9-5de34cbc0031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/main[1]/main[@class=&quot;MuiContainer-root MuiContainer-maxWidthXs css-nzinn5-MuiContainer-root&quot;]/div[@class=&quot;MuiBox-root css-binzgt&quot;]/form[@class=&quot;MuiBox-root css-164r41r&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-body2 MuiLink-root MuiLink-underlineAlways css-1b87lcw-MuiTypography-root-MuiLink-root&quot;]</value>
+      <webElementGuid>7d4d6a52-ab0a-42a5-b130-8dc6332ac784</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/main/div/form/div[3]/div[2]/a</value>
+      <webElementGuid>5017a2d3-c62e-4ebf-8973-b5bc0270d5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::a[1]</value>
+      <webElementGuid>cdd41011-160a-4223-95f3-37dd0e4d754d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot Carz'])[2]/preceding::a[1]</value>
+      <webElementGuid>30c4370a-398b-4f38-8dfc-70ab8b1eef3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/signup')]</value>
+      <webElementGuid>7889a018-d5da-4a02-b53d-688354fa0195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>0bcef8d9-6659-42a2-a6cd-5339e1e8f91d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/signup' and (text() = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account? Sign Up&quot;) or . = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account? Sign Up&quot;))]</value>
+      <webElementGuid>2b67798e-7361-4c46-825d-b2efb815e5d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-Aleta ClaveringPatsy OrchartRaffert_84d5b4 (1)</name>
+   <tag></tag>
+   <elementGuidId>db7ff2ac-9ae1-4632-b8d8-ebc33780b67b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#technician</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='technician']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a89dbc37-f3c0-48ac-8732-1883d20195c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>technician</value>
+      <webElementGuid>e621465a-7b98-4c70-8d09-965d8127b9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-Aleta ClaveringPatsy OrchartRafferty FrostdickeGlori CoxFlorenza SchoffelDelinda DeyRhett PawsonEdythe ClementetTorrence Kibblewhite</value>
+      <webElementGuid>3580315c-b27b-4587-9c02-339fe41d8d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;technician&quot;)</value>
+      <webElementGuid>0765474d-d6db-457b-b776-41a8f5f4643e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='technician']</value>
+      <webElementGuid>a2460cfd-1cd5-464a-ae8e-4c65d33c3c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div[2]/div/div/div[2]/div[2]/div/div/div[3]/select</value>
+      <webElementGuid>de11a3e5-d313-4a4a-8052-2bf6e116f2bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Technician:'])[1]/following::select[1]</value>
+      <webElementGuid>f1ac7123-533d-49d0-933e-669a08d1d29b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Information'])[1]/following::select[1]</value>
+      <webElementGuid>71e752a3-b9ee-4a3d-865f-e141ce0fcf41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::select[1]</value>
+      <webElementGuid>dc49a279-b0a4-4c68-b774-6334b554ab40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::select[1]</value>
+      <webElementGuid>84f1b818-509a-4eed-a545-5f66864e1337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>04fdb655-2ec7-4f88-937c-5f0cfaf56626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'technician' and (text() = '-Aleta ClaveringPatsy OrchartRafferty FrostdickeGlori CoxFlorenza SchoffelDelinda DeyRhett PawsonEdythe ClementetTorrence Kibblewhite' or . = '-Aleta ClaveringPatsy OrchartRafferty FrostdickeGlori CoxFlorenza SchoffelDelinda DeyRhett PawsonEdythe ClementetTorrence Kibblewhite')]</value>
+      <webElementGuid>aeda4128-25b8-4ddb-aac8-af43659c786b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

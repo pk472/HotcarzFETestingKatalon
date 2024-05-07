@@ -1,0 +1,56 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:3000')
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/a_Account'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Hot Carz Dealership/input_Username_username'), 'jtheyer1')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hot Carz Dealership/input_Password_password'), 'Z25GDJ6CyMCedLQ7vMaM4g==')
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/button_Sign In'))
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/a_schedule'))
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/button_2004 BMW 3 Series'))
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/button_Oil Change - Price 39.99'))
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/button_Submit Appointment'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Hot Carz Dealership/input_Routing number_routing-number'), '135245874')
+
+WebUI.setText(findTestObject('Object Repository/Page_Hot Carz Dealership/input_Account number_account-number'), '12354687')
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/button_Next'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Hot Carz Dealership/input_Customer Signature_customer-signature'), 
+    'Alice Smith')
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/button_Place order'))
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/button_Go to my orders'))
+
+WebUI.click(findTestObject('Object Repository/Page_Hot Carz Dealership/a_Account'))
+
